@@ -19,10 +19,10 @@ A loader for webpack which transforms files into base64 URIs.
 
 ## Getting Started
 
-To begin, you'll need to install `url-loader`:
+To begin, you'll need to install `elc-url-loader`:
 
 ```console
-$ npm install url-loader --save-dev
+$ yarn add elc-url-loader
 ```
 
 `url-loader` works like
