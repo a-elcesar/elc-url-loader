@@ -1,6 +1,6 @@
 {
   "name": "elc-url-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A loader for webpack which transforms files into base64 URIs",
   "license": "MIT",
   "repository": "https://github.com/a-elcesar/elc-url-loader.git",
@@ -47,7 +47,7 @@
     }
   },
   "dependencies": {
-    "loader-utils": "^3.2.1",
+    "loader-utils": "2.0.4",
     "mime-types": "^2.1.27",
     "schema-utils": "^3.0.0"
   },
